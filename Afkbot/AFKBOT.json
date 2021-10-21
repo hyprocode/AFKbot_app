@@ -1,6 +1,6 @@
 {
-	"ip":"smpatmine.aternos.me",
-	"port": "24353",
+	"ip":"Hypro_SMP.aternos.me",
+	"port": "60927",
 	"name": "AFKBot",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
