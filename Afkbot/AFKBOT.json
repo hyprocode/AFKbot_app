@@ -1,0 +1,6 @@
+{
+	"ip":"smpatmine.aternos.me",
+	"port": "24353",
+	"name": "AFKBot",
+	"auto-night-skip":"true"
+}
